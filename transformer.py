@@ -15,7 +15,6 @@ classifier = pipeline('sentiment-analysis')
 # Example usage of the classifier
 result = classifier('We are very happy to show you the HuggingFace Transformers library.')
 
-# Print division line
 print("-" * 50)
 print("-" * 50)
 print("-" * 50)
