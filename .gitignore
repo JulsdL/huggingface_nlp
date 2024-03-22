@@ -142,6 +142,9 @@ venv.bak/
 models/
 test-trainer/
 
+shakespeare/
+data/
+
 # mypy
 .mypy_cache/
 .dmypy.json
