@@ -145,6 +145,8 @@ test-trainer/
 shakespeare/
 data/
 models/
+test-trainer/
+vector_db/
 
 # mypy
 .mypy_cache/
